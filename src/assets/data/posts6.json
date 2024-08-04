@@ -1,7 +1,7 @@
 [
   {
     "aweme_id": "7260749400622894336",
-    "desc": "修改后的 desc",
+    "desc": "C语言尾插法创建单项链表",
     "create_time": 1690524964,
     "music": {
       "id": 7123453673090321000,
@@ -58,14 +58,14 @@
         "width": 720,
         "height": 720
       },
-      "poster": "a1.jpg",
+      "poster": "c-danxianglianbiao-cover.png",
       "height": 3840,
       "width": 2160,
       "ratio": "1080p",
       "use_static_cover": true,
       "duration": 13560
     },
-    "share_url": "https://www.iesdouyin.com/share/video/7260749400622894336/?region=CN&mid=7123453673090321159&u_code=13kgm680k&did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title&share_sign=LF.QuEh0GZk3quR7m.I3KpyKn2XyfNLNYHzuQDgWLpc-&share_version=170400&ts=1710491656&from_aid=6383&from_ssr=1",
+    "share_url": "https://www.bilibili.com/video/BV1f94y1K7pH/?spm_id_from=333.999.0.0&vd_source=d4cea48f01f88ad82143c31eb07facfa",
     "statistics": {
       "admire_count": 0,
       "comment_count": 21582,
@@ -89,8 +89,8 @@
     "text_extra": [],
     "is_top": 1,
     "share_info": {
-      "share_url": "https://www.iesdouyin.com/share/video/7260749400622894336/?region=CN&mid=7123453673090321159&u_code=13kgm680k&did=MS4wLjABAAAAiOgYyZm8XbWZMr5o3OvhR-TEOuNygb_hQOwkie-VXJpDYaR4vZfpiIGBfAWKCFHB&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title&share_sign=LF.QuEh0GZk3quR7m.I3KpyKn2XyfNLNYHzuQDgWLpc-&share_version=170400&ts=1710491656&from_aid=6383&from_ssr=1",
-      "share_link_desc": "7.46 04/12 Duf:/ D@h.ba 你说爱像云 要自在漂浮才美丽  %s 复制此链接，打开Dou音搜索，直接观看视频！"
+      "share_url": "https://www.bilibili.com/video/BV1f94y1K7pH/?spm_id_from=333.999.0.0&vd_source=d4cea48f01f88ad82143c31eb07facfa",
+      "share_link_desc": "复制链接到浏览器观看原视频"
     },
     "duration": 13560,
     "image_infos": null,
@@ -117,7 +117,7 @@
         {
           "words": [
             {
-              "word": "一只顾",
+              "word": "C语言",
               "word_id": "6658760941217256711",
               "info": "{\"qrec_for_search\":\"{\\\"video_ecom\\\":\\\"1\\\"}\"}"
             }
@@ -130,7 +130,7 @@
         {
           "words": [
             {
-              "word": "香秀早期照片护士",
+              "word": "数据结构 C 语言",
               "word_id": "6999224590481708302",
               "info": "{\"qrec_for_search\":\"{\\\"video_ecom\\\":\\\"1\\\"}\"}"
             }
@@ -143,7 +143,7 @@
         {
           "words": [
             {
-              "word": "一只顾",
+              "word": "C 语言",
               "word_id": "6658760941217256711",
               "info": "{\"qrec_for_search\":\"{\\\"video_ecom\\\":\\\"1\\\"}\"}"
             }
@@ -244,7 +244,7 @@
       "ip_location": "IP属地：天津",
       "max_follower_count": 7078290,
       "mplatform_followers_count": 7078268,
-      "nickname": "我是香秀🐂🍺",
+      "nickname": "小刘刘学习时间",
       "province": "",
       "public_collects_count": 0,
       "share_info": {
@@ -267,7 +267,7 @@
         "share_weibo_desc": "长按复制此条消息，打开抖音搜索，查看TA的更多作品。"
       },
       "short_id": "8357999",
-      "signature": "合作：X229896（备注品牌 ）",
+      "signature": "好好学习天天向上",
       "total_favorited": 202309485,
       "uid": "59054327754",
       "unique_id": "",
