@@ -48,13 +48,13 @@
         "width": 1080,
         "height": 1920,
         "url_key": "v0d00fg10000cj1lq4jc77u0ng6s1gt0_h264_1080p_2053262",
-        "data_size": 3480280,
+        "data_size": 38129076,
         "file_hash": "7749aec7bd62a3760065f60e40fc1867",
         "file_cs": "c:0-16104-634c|d:0-1740139-1d83,1740140-3480279-e5a6|a:v0d00fg10000cj1lq4jc77u0ng6s1gt0"
       },
       "cover": {
         "uri": "tos-cn-i-0813/oYVDeaFZyENAAAAKXCYfxD6hI4zADNAURgtySl",
-        "url_list": ["jwWCPZVTIA4IKM-8WipLF.png"],
+        "url_list": ["https://xll-withgo-cn-public.oss-cn-beijing.aliyuncs.com/c-danxianglianbiao-cover.png"],
         "width": 720,
         "height": 720
       },
